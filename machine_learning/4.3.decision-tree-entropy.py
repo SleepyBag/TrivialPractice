@@ -126,7 +126,7 @@ def build_decision_tree(data_frame, discrete_columns, continuous_columns, label_
     entropy = {column: 0 for column in list(
         discrete_columns)+list(continuous_columns)}
     # split_point = {column: 0 for column in list(
-        # discrete_columns)+list(continuous_columns)}
+    # discrete_columns)+list(continuous_columns)}
 
     # 尝试以每一个离散属性为当前分支属性
     for column in discrete_columns:
@@ -164,7 +164,7 @@ def build_decision_tree(data_frame, discrete_columns, continuous_columns, label_
     for data in splited_data:
         node.split_column = best_split_column
         node.child[data[best_split_column].iloc[0]] = build_decision_tree(
-            data, discrete_columns, continuous_columns, label_column)
+            data, [i for i in discrete_columns], [i for i in continuous_columns], label_column)
 
     return node
 

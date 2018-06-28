@@ -25,6 +25,7 @@ def iterate(X, Y, beta):
         grad += - xhat * (y - p1(xhat, beta))
         grad2 += np.dot(xhat, xhat.T) * p1(xhat, beta) * (1 - p1(xhat, beta))
         loss += log(1 + exp(np.dot(beta.T, xhat))) - y * np.dot(beta.T, xhat)
+        print(log(1 + exp(np.dot(beta.T, xhat))) - y * np.dot(beta.T, xhat))
         # pdb.set_trace()
     beta = beta - np.dot(np.linalg.inv(grad2), grad)
     return grad, grad2, beta, loss
