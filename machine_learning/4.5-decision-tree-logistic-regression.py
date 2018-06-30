@@ -33,7 +33,7 @@ sigmoid = mx.gluon.nn.Activation('sigmoid')
 
 
 def build_decision_tree(data_frame, feature_columns, label_column):
-    print(data_frame)
+    # print(data_frame)
     # 构造决策树
     node = Node()
 
@@ -72,12 +72,13 @@ def build_decision_tree(data_frame, feature_columns, label_column):
     net.collect_params().initialize(init=mx.init.Normal())
 
     # 定义训练器
-    trainer = gluon.Trainer(net.collect_params(), 'sgd', {'learning_rate': 1})
+    trainer = gluon.Trainer(net.collect_params(),
+                            'rmsprop', {'learning_rate': .5,'gamma1': .9})
     losser = gluon.loss.LogisticLoss(label_format='binary')
 
     # 训练模型
-    num_epochs = 40
-    verbose_epoch = 35
+    num_epochs = 10
+    verbose_epoch = 0
     for epoch in range(num_epochs):
         for feature, label in dataiter:
             with mx.autograd.record():
@@ -97,7 +98,7 @@ def build_decision_tree(data_frame, feature_columns, label_column):
             data[feature_columns].as_matrix()).reshape(shape=(1, -1))
         label = net(feature)[0][0]
         label = sigmoid.forward(label)
-        print(label.asscalar(),data[label_column])
+        print(label.asscalar(), data[label_column])
         if label > .5:
             positive_rows.append(index)
         else:

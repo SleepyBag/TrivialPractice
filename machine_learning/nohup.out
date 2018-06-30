@@ -1,0 +1,346 @@
+sysctl: write error: Bad file descriptor
+sysctl: write error: Bad file descriptor
+sysctl: write error: Bad file descriptor
+AuthMode    Wired Authentication
+Adapter     enp1s0
+UserName    13015715948
+2018-06-22 12:28:30 Stoping system service(network-manager)
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+2018-06-22 12:28:31 Failed to stop system service(network-manager)
+2018-06-22 12:28:31 Enabling adapters
+2018-06-22 12:28:31 Initializing.....
+2018-06-22 12:28:31 Lookup the switch...
+2018-06-22 12:28:31 Connecting radius server...
+2018-06-22 12:28:31 Authenticating now...
+2018-06-22 12:28:31 Geting IP Address...
+2018-06-22 12:28:34 Lookup the switch...
+2018-06-22 12:28:34 Connecting radius server...
+2018-06-22 12:28:34 Authenticating now...
+2018-06-22 12:28:34 Success
+2018-06-22 12:28:34 Management Tips:QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+06-28, 09:07:12 [Error  ] [                          0] Media changed
+06-28, 09:07:12 [Error  ] [                          0] Player opening
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve CRYPTO_num_locks
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve CRYPTO_set_id_callback
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve CRYPTO_set_locking_callback
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve ERR_free_strings
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve EVP_CIPHER_CTX_cleanup
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve EVP_CIPHER_CTX_init
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve sk_new_null
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve sk_push
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve sk_free
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve sk_num
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve sk_pop_free
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve sk_value
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve SSL_library_init
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve SSL_load_error_strings
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve SSL_get_ex_new_index
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve SSLv2_client_method
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve SSLv3_client_method
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve SSLv23_client_method
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve SSLv2_server_method
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve SSLv3_server_method
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve SSLv23_server_method
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve X509_STORE_CTX_get_chain
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve OPENSSL_add_all_algorithms_noconf
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve OPENSSL_add_all_algorithms_conf
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve SSLeay
+No appenders assotiated with category qt.network.ssl
+[Warning] <> QSslSocket: cannot resolve SSLeay_version
+No appenders assotiated with category qt.network.ssl
+[Warning] <> Incompatible version of OpenSSL
+06-28, 09:11:54 [Error  ] [                          0] Media changed
+06-28, 09:11:54 [Error  ] [                          0] Player opening
+06-28, 09:16:05 [Error  ] [                          0] Media changed
+06-28, 09:16:05 [Error  ] [                          0] Player opening
+06-28, 09:23:50 [Error  ] [                          0] Media changed
+06-28, 09:23:50 [Error  ] [                          0] Player opening
+06-28, 09:26:51 [Error  ] [                          0] Media changed
+06-28, 09:26:51 [Error  ] [                          0] Player opening
+06-28, 09:30:19 [Error  ] [                          0] Media changed
+06-28, 09:30:19 [Error  ] [                          0] Player opening
+06-28, 09:34:22 [Error  ] [                          0] Media changed
+06-28, 09:34:22 [Error  ] [                          0] Player opening
+06-28, 09:40:08 [Error  ] [                          0] Media changed
+06-28, 09:40:08 [Error  ] [                          0] Player opening
+06-28, 09:48:27 [Error  ] [                          0] Media changed
+06-28, 09:48:27 [Error  ] [                          0] Player opening
+06-28, 09:53:19 [Error  ] [                          0] Media changed
+06-28, 09:53:19 [Error  ] [                          0] Player opening
+06-28, 09:56:38 [Error  ] [                          0] Media changed
+06-28, 09:56:38 [Error  ] [                          0] Player opening
+06-28, 09:59:43 [Error  ] [                          0] Media changed
+06-28, 09:59:43 [Error  ] [                          0] Player opening
+06-28, 10:04:57 [Error  ] [                          0] Media changed
+06-28, 10:04:57 [Error  ] [                          0] Player opening
+06-28, 10:15:15 [Error  ] [                          0] Media changed
+06-28, 10:15:15 [Error  ] [                          0] Player opening
+06-28, 10:17:46 [Error  ] [                          0] Media changed
+06-28, 10:17:46 [Error  ] [                          0] Player opening
+06-28, 10:28:56 [Error  ] [                          0] Media changed
+06-28, 10:28:56 [Error  ] [                          0] Player opening
+06-28, 10:35:04 [Error  ] [                          0] Media changed
+06-28, 10:35:04 [Error  ] [                          0] Player opening
+06-28, 10:37:46 [Error  ] [                          0] Media changed
+06-28, 10:37:46 [Error  ] [                          0] Player opening
+06-28, 10:45:07 [Error  ] [                          0] Media changed
+06-28, 10:45:07 [Error  ] [                          0] Player opening
+06-28, 10:47:42 [Error  ] [                          0] Media changed
+06-28, 10:47:42 [Error  ] [                          0] Player opening
+06-28, 10:50:34 [Error  ] [                          0] Media changed
+06-28, 10:50:34 [Error  ] [                          0] Player opening
+06-28, 10:53:57 [Error  ] [                          0] Media changed
+06-28, 10:53:57 [Error  ] [                          0] Player opening
+06-28, 11:00:16 [Error  ] [                          0] Media changed
+06-28, 11:00:16 [Error  ] [                          0] Player opening
+06-28, 11:02:49 [Error  ] [                          0] Media changed
+06-28, 11:02:49 [Error  ] [                          0] Player opening
+06-28, 11:08:15 [Error  ] [                          0] Media changed
+06-28, 11:08:15 [Error  ] [                          0] Player opening
+06-28, 11:27:27 [Error  ] [                          0] Media changed
+06-28, 11:27:27 [Error  ] [                          0] Player opening
+06-28, 11:30:33 [Error  ] [                          0] Media changed
+06-28, 11:30:33 [Error  ] [                          0] Player opening
+06-28, 11:39:08 [Error  ] [                          0] Media changed
+06-28, 11:39:08 [Error  ] [                          0] Player opening
+06-28, 11:42:41 [Error  ] [                          0] Media changed
+06-28, 11:42:41 [Error  ] [                          0] Player opening
+06-28, 11:52:20 [Error  ] [                          0] Media changed
+06-28, 11:52:20 [Error  ] [                          0] Player opening
+06-28, 11:59:15 [Error  ] [                          0] Media changed
+06-28, 11:59:15 [Error  ] [                          0] Player opening
+06-28, 12:06:36 [Error  ] [                          0] Media changed
+06-28, 12:06:36 [Error  ] [                          0] Player opening
+06-28, 12:09:38 [Error  ] [                          0] Media changed
+06-28, 12:09:38 [Error  ] [                          0] Player opening
+06-28, 12:12:13 [Error  ] [                          0] Media changed
+06-28, 12:12:13 [Error  ] [                          0] Player opening
+06-28, 12:15:02 [Error  ] [                          0] Media changed
+06-28, 12:15:02 [Error  ] [                          0] Player opening
+06-28, 12:19:17 [Error  ] [                          0] Media changed
+06-28, 12:19:17 [Error  ] [                          0] Player opening
+06-28, 16:16:34 [Error  ] [                          0] Media changed
+06-28, 16:16:34 [Error  ] [                          0] Player opening
+06-28, 16:20:16 [Error  ] [                          0] Media changed
+06-28, 16:20:16 [Error  ] [                          0] Player opening
+06-28, 16:22:40 [Error  ] [                          0] Media changed
+06-28, 16:22:40 [Error  ] [                          0] Player opening
+06-28, 16:29:54 [Error  ] [                          0] Media changed
+06-28, 16:29:54 [Error  ] [                          0] Player opening
+06-28, 16:34:58 [Error  ] [                          0] Media changed
+06-28, 16:34:58 [Error  ] [                          0] Player opening
+06-28, 16:38:38 [Error  ] [                          0] Media changed
+06-28, 16:38:38 [Error  ] [                          0] Player opening
+[16191:16191:0628/163952.277786:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+[16201:16201:0628/163952.314776:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: firefox: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: iceweasel: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: seamonkey: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: mozilla: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: epiphany: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: konqueror: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: chromium: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: chromium-browser: not found
+[16227:16227:0628/163952.356218:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: www-browser: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: links2: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: elinks: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: links: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: lynx: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: w3m: not found
+xdg-open: no method available for opening 'https://api.meitu.com/promotion/h5/20180607175340/index.html'
+[16310:16310:0628/163954.209516:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+[16320:16320:0628/163954.253022:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: firefox: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: iceweasel: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: seamonkey: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: mozilla: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: epiphany: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: konqueror: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: chromium: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: chromium-browser: not found
+[16346:16346:0628/163954.295246:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: www-browser: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: links2: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: elinks: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: links: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: lynx: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: w3m: not found
+xdg-open: no method available for opening 'https://api.meitu.com/promotion/h5/20180607175340/index.html'
+[16430:16430:0628/164002.013651:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+[16440:16440:0628/164002.054199:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: firefox: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: iceweasel: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: seamonkey: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: mozilla: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: epiphany: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: konqueror: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: chromium: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: chromium-browser: not found
+[16466:16466:0628/164002.093705:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: www-browser: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: links2: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: elinks: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: links: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: lynx: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: w3m: not found
+xdg-open: no method available for opening 'https://api.meitu.com/promotion/h5/20180607175340/index.html'
+[16549:16549:0628/164002.926569:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+[16559:16559:0628/164002.960669:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: firefox: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: iceweasel: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: seamonkey: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: mozilla: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: epiphany: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: konqueror: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: chromium: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: chromium-browser: not found
+[16585:16585:0628/164003.002935:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: www-browser: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: links2: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: elinks: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: links: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: lynx: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: w3m: not found
+xdg-open: no method available for opening 'https://api.meitu.com/promotion/h5/20180607175340/index.html'
+[16668:16668:0628/164003.509756:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+[16678:16678:0628/164003.545899:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: firefox: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: iceweasel: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: seamonkey: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: mozilla: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: epiphany: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: konqueror: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: chromium: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: chromium-browser: not found
+[16704:16704:0628/164003.591728:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: www-browser: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: links2: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: elinks: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: links: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: lynx: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: w3m: not found
+xdg-open: no method available for opening 'https://api.meitu.com/promotion/h5/20180607175340/index.html'
+[16787:16787:0628/164003.933425:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+[16797:16797:0628/164003.970142:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: firefox: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: iceweasel: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: seamonkey: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: mozilla: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: epiphany: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: konqueror: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: chromium: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: chromium-browser: not found
+[16823:16823:0628/164004.017499:ERROR:zygote_host_impl_linux.cc(88)] Running as root without --no-sandbox is not supported. See https://crbug.com/638180.
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: www-browser: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: links2: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: elinks: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: links: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: lynx: not found
+/usr/bin/xdg-open: 851: /usr/bin/xdg-open: w3m: not found
+xdg-open: no method available for opening 'https://api.meitu.com/promotion/h5/20180607175340/index.html'
+06-28, 16:40:14 [Error  ] [                          0] Media changed
+06-28, 16:40:14 [Error  ] [                          0] Player opening
+06-28, 16:40:42 [Error  ] [                          0] Media changed
+06-28, 16:40:42 [Error  ] [                          0] Player opening
+06-28, 16:43:43 [Error  ] [                          0] Media changed
+06-28, 16:43:43 [Error  ] [                          0] Player opening
+06-28, 16:53:36 [Error  ] [                          0] Media changed
+06-28, 16:53:36 [Error  ] [                          0] Player opening
+06-28, 16:59:43 [Error  ] [                          0] Media changed
+06-28, 16:59:43 [Error  ] [                          0] Player opening
+06-28, 17:02:02 [Error  ] [                          0] Media changed
+06-28, 17:02:02 [Error  ] [                          0] Player opening
+06-28, 17:04:51 [Error  ] [                          0] Media changed
+06-28, 17:04:51 [Error  ] [                          0] Player opening
+06-28, 17:13:23 [Error  ] [                          0] Media changed
+06-28, 17:13:23 [Error  ] [                          0] Player opening
+06-28, 17:18:51 [Error  ] [                          0] Media changed
+06-28, 17:18:51 [Error  ] [                          0] Player opening
+06-28, 17:20:57 [Error  ] [                          0] Media changed
+06-28, 17:20:57 [Error  ] [                          0] Player opening
+06-28, 17:23:59 [Error  ] [                          0] Media changed
+06-28, 17:23:59 [Error  ] [                          0] Player opening
+06-28, 17:26:27 [Error  ] [                          0] Media changed
+06-28, 17:26:27 [Error  ] [                          0] Player opening
+06-28, 18:57:16 [Error  ] [                          0] Media changed
+06-28, 18:57:16 [Error  ] [                          0] Player opening
+06-28, 18:57:21 [Error  ] [                          0] Media changed
+06-28, 18:57:21 [Error  ] [                          0] Player opening
+06-28, 18:58:19 [Error  ] [                          0] Media changed
+06-28, 18:58:19 [Error  ] [                          0] Player opening
+06-28, 19:11:58 [Error  ] [                          0] Media changed
+06-28, 19:11:58 [Error  ] [                          0] Player opening
+06-28, 19:18:25 [Error  ] [                          0] Media changed
+06-28, 19:18:25 [Error  ] [                          0] Player opening
+06-28, 19:27:16 [Error  ] [                          0] Media changed
+06-28, 19:27:16 [Error  ] [                          0] Player opening
+06-28, 19:33:17 [Error  ] [                          0] Media changed
+06-28, 19:33:17 [Error  ] [                          0] Player opening
+06-28, 19:36:40 [Error  ] [                          0] Media changed
+06-28, 19:36:40 [Error  ] [                          0] Player opening
+06-28, 19:46:35 [Error  ] [                          0] Media changed
+06-28, 19:46:35 [Error  ] [                          0] Player opening
+06-28, 19:50:16 [Error  ] [                          0] Media changed
+06-28, 19:50:16 [Error  ] [                          0] Player opening
+06-28, 20:00:25 [Error  ] [                          0] Media changed
+06-28, 20:00:25 [Error  ] [                          0] Player opening
+06-28, 20:07:04 [Error  ] [                          0] Media changed
+06-28, 20:07:04 [Error  ] [                          0] Player opening
+06-28, 20:10:18 [Error  ] [                          0] Media changed
+06-28, 20:10:18 [Error  ] [                          0] Player opening
+06-28, 20:11:05 [Error  ] [                          0] Media changed
+06-28, 20:11:05 [Error  ] [                          0] Player opening
+06-28, 20:20:20 [Error  ] [                          0] Media changed
+06-28, 20:20:20 [Error  ] [                          0] Player opening
+06-28, 20:27:49 [Error  ] [                          0] Media changed
+06-28, 20:27:49 [Error  ] [                          0] Player opening
+06-28, 20:33:45 [Error  ] [                          0] Media changed
+06-28, 20:33:45 [Error  ] [                          0] Player opening
+06-28, 20:53:33 [Error  ] [                          0] Media changed
+06-28, 20:53:33 [Error  ] [                          0] Player opening
+06-28, 20:59:35 [Error  ] [                          0] Media changed
+06-28, 20:59:35 [Error  ] [                          0] Player opening
+06-28, 21:02:44 [Error  ] [                          0] Media changed
+06-28, 21:02:44 [Error  ] [                          0] Player opening
+06-28, 21:05:13 [Error  ] [                          0] Media changed
+06-28, 21:05:13 [Error  ] [                          0] Player opening
+06-28, 21:11:08 [Error  ] [                          0] Media changed
+06-28, 21:11:08 [Error  ] [                          0] Player opening
+06-28, 21:20:06 [Error  ] [                          0] Media changed
+06-28, 21:20:06 [Error  ] [                          0] Player opening
+06-28, 21:26:28 [Error  ] [                          0] Media changed
+06-28, 21:26:28 [Error  ] [                          0] Player opening
+06-28, 21:35:02 [Error  ] [                          0] Media changed
+06-28, 21:35:02 [Error  ] [                          0] Player opening
+06-28, 21:40:28 [Error  ] [                          0] Media changed
+06-28, 21:40:28 [Error  ] [                          0] Player opening
+06-28, 21:42:51 [Error  ] [                          0] Media changed
+06-28, 21:42:51 [Error  ] [                          0] Player opening
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 155 requests (155 known processed) with 12 events remaining.
